@@ -1,0 +1,8 @@
+document.writeln("<li><a href=\"\/a\/qikandaohang\/jiaoyuqikan\/20101203\/227.html\"><img src=\"\/uploads\/allimg\/131021\/2-131021232354215.jpg\" alt=\"中国高教研究\"  \/><p>中国高教研究<\/p><\/a><\/li>");
+document.writeln("<li><a href=\"\/a\/qikandaohang\/jiaoyuqikan\/20101118\/192.html\"><img src=\"\/uploads\/allimg\/131021\/2-131021232504435.jpg\" alt=\"教育与经济\"  \/><p>教育与经济<\/p><\/a><\/li>");
+document.writeln("<li><a href=\"\/a\/qikandaohang\/jiaoyuqikan\/20101115\/151.html\"><img src=\"\/uploads\/allimg\/131021\/2-131021232531605.jpg\" alt=\"教育学术月刊\"  \/><p>教育学术月刊<\/p><\/a><\/li>");
+document.writeln("<li><a href=\"\/a\/qikandaohang\/yixueqikan\/20101203\/231.html\"><img src=\"\/uploads\/allimg\/131021\/2-131021230956443.jpg\" alt=\"中华预防医学杂志\"  \/><p>中华预防医学杂志<\/p><\/a><\/li>");
+document.writeln("<li><a href=\"\/a\/qikandaohang\/yixueqikan\/20101203\/233.html\"><img src=\"\/uploads\/allimg\/131021\/2-131021231040537.jpg\" alt=\"中国中药杂志\" \/><p>中国中药杂志<\/p><\/a><\/li>");
+document.writeln("<li><a href=\"\/a\/qikandaohang\/jingjiqikan\/20101115\/173.html\"><img src=\"\/uploads\/allimg\/131021\/2-131021231P32c.jpg\" alt=\"上海经济研究\"  \/><p>上海经济研究<\/p><\/a><\/li>");
+document.writeln("<li><a href=\"\/a\/qikandaohang\/jingjiqikan\/20101115\/172.html\"><img src=\"\/uploads\/allimg\/131021\/2-131021231U3424.jpg\" alt=\"农村经济\"  \/><p>农村经济<\/p><\/a><\/li>");
+document.writeln("<li><a href=\"\/a\/qikandaohang\/jingjiqikan\/20101204\/245.html\"><img src=\"\/uploads\/allimg\/131021\/2-131021231952319.jpg\" alt=\"世界经济文汇\"  \/><p>世界经济文汇<\/p><\/a><\/li>")

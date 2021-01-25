@@ -1,0 +1,152 @@
+.serverInfo {
+    text-align: center;
+}
+.chosebox {
+    justify-content: center;
+    margin-bottom: 90px;
+}
+.chosebox .idcard {
+    width: 120px;
+    margin: 0 40px;
+}
+.chosebox .avatar {
+    width: 120px;
+    height: 120px;
+    margin-bottom: 45px;
+}
+.chosebox .name {
+    text-align: center;
+    font-size: 18px;
+    color: #333333;
+}
+.positionbox {
+    width: 1200px;
+    height: 530px;
+    position: relative;
+    margin-bottom: 128px;
+    box-shadow: 0 0 48px 1px rgba(154, 154, 154, 0.33);
+}
+.positioncard {
+    width: 400px;
+    height: 530px;
+    position: absolute;
+    top: 0;
+    background: #fff;
+    transition: all .3s linear;
+}
+.l1 {
+    left: 0;
+}
+.l2 {
+    left: 400px;
+}
+.l3 {
+    left: 800px;
+}
+.positioncard1 {
+    background: #f4f4f4;
+    height: 200px;
+    width: 400px;
+    text-align: center;
+    transition: all .3s linear;
+}
+.positioncard1 .icon {
+    display: inline-block;
+    height: 49px;
+    width: 49px;
+    margin-top: 33px;
+    background-size: 49px;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.positioncard1 .icon-1 {
+    background-image: url("../image/wm/icon/bigcardicon1.png");
+}
+.positioncard1 .icon-2 {
+    background-image: url("../image/wm/icon/bigcardicon2.png");
+}
+.positioncard1 .icon-3 {
+    background-image: url("../image/wm/icon/bigcardicon3.png");
+}
+.positioncard1 h3 {
+    text-align: center;
+    margin-top: 17px;
+    font-size: 22px;
+    color: #333333;
+    transition: all .3s linear;
+}
+.positioncard1 p {
+    text-align: center;
+    margin-top: 13px;
+    font-size: 16px;
+    color: #777;
+    transition: all .3s linear;
+}
+.positioncard2 {
+    height: 330px;
+    width: 400px;
+    padding-top: 32px;
+    text-align: center;
+    box-sizing: border-box;
+}
+.positioncard2 .miniinfobox {
+    text-align: center;
+    margin-bottom: 16px;
+}
+
+.positioncard2 .miniinfobox p {
+    text-align: center;
+}
+.positioncard2 .miniinfobox .positionminititle {
+    font-size: 16px;
+    color: #333333;
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+.positioncard2 .miniinfobox .positionminiinfo {
+    font-size: 12px;
+    color: #777;
+    line-height: 14px;
+    height: 28px;
+}
+.positioncard2 button {
+    display: inline-block;
+    width: 135px;
+    height: 36px;
+    border-radius: 3px;
+    border: solid 1px #13c7e2;
+    background: #fff;
+    color: #13c7e2;
+    font-size: 14px;
+    cursor: pointer;
+    transition: all .3s linear;
+}
+.positioncard:hover {
+    z-index: 100;
+    transform: scale(1.05);
+    box-shadow: 0 0 48px 1px rgba(154, 154, 154, 0.33);
+    border: 1px solid #13c7e2;
+    cursor: default;
+}
+.positioncard:hover .positioncard1 {
+    background: #13c7e2;
+}
+.positioncard:hover .positioncard1 h3 {
+    color: #fff;
+}
+.positioncard:hover .positioncard1 p {
+    color: #fff;
+}
+.positioncard:hover .positioncard1 .icon-1 {
+    background-image: url("../image/wm/icon/bigcardicon1-h.png");
+}
+.positioncard:hover .positioncard1 .icon-2 {
+    background-image: url("../image/wm/icon/bigcardicon2-h.png");
+}
+.positioncard:hover .positioncard1 .icon-3 {
+    background-image: url("../image/wm/icon/bigcardicon3-h.png");
+}
+.positioncard:hover .positioncard2 button {
+    background: #13c7e2;
+    color: #fff;
+}

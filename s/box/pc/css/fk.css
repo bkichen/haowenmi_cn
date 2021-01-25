@@ -1,0 +1,127 @@
+.paybox {
+    background-color: #ffffff;
+    box-shadow: 0 0 12px 1px rgba(85, 122, 175, 0.24);
+    border-radius: 9px;
+    padding: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.payinputbox {
+    padding: 20px 70px;
+    margin-top: 16px;
+}
+.jdbox {
+    padding: 60px 40px;
+    margin-top: 50px;
+}
+.payinfobox {
+    flex-grow: 0;
+    flex-shrink: 0;
+}
+.payinfobox .payname {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333333;
+    margin-bottom: 40px;
+}
+.payinfobox .payname span {
+    margin-right: 60px;
+}
+.payinfobox .payinfo {
+    font-size: 18px;
+    color: #777777;
+}
+.payimgbox {
+    width: 165px;
+    height: 165px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 165px 165px;
+    flex-grow: 0;
+    flex-shrink: 0;
+}
+.alipayimg {
+    background-image: url("../image/fk/alipay.png");
+}
+.wxpayimg {
+    background-image: url("../image/fk/wxpay.png");
+}
+.pb80 {
+    padding-bottom: 80px;
+}
+
+
+.payinput {
+    font-size: 16px;
+    color: #333333;
+}
+.payinput .input {
+    width: 215px;
+    height: 50px;
+    box-sizing: border-box;
+    border: solid 1px #eeeeee;
+    margin:  0 15px;
+    padding: 0 20px;
+    outline: none;
+}
+.payinputbox .submit {
+    width: 200px;
+    height: 50px;
+    background-color: #0095ff;
+    border-radius: 3px;
+    color: #ffffff;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+.jdbox  .input {
+    width: 165px;
+    box-sizing: border-box;
+    border: solid 1px #eeeeee;
+    margin:  0 15px;
+    padding: 0 20px;
+}
+
+
+.banktable {
+    width: 100%;
+    flex-grow: 0;
+    flex-shrink: 0;
+}
+.banktable th {
+    font-size: 16px;
+    font-weight: bold;
+    padding-bottom: 30px;
+}
+.banktable td {
+    height: 140px;
+    box-sizing: border-box;
+    padding: 0 20px;
+    line-height: 20px;
+    border-top: 1px solid #eee;
+    border-left: 1px solid #eee;
+}
+.banktable td.fz14 {
+    font-size: 14px;
+    line-height: 24px;
+}
+.banktable td.fz12 {
+    font-size: 12px;
+    line-height: 24px;
+}
+.banktable td.br {
+    border-right: 1px solid #eee;
+}
+.banktable td.bb {
+    border-bottom: 1px solid #eee;
+}
+.banklogo {
+    width: 160px;
+    display: block;
+    margin: 0 auto;
+}
+.red {
+    color: #ff0000;
+}

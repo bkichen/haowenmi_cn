@@ -1,0 +1,25 @@
+document.writeln("<div class=\"share floatfrm\">");
+document.writeln("<div class=\"con\">");
+document.writeln("<div id=\"bdshare\" class=\"bdshare_t bds_tools_32 get-codes-bdshare\">");
+document.writeln("<a class=\"bds_qzone\"><\/a>");
+document.writeln("<a class=\"bds_tsina\"><\/a>");
+document.writeln("<a class=\"bds_tqq\"><\/a>");
+document.writeln("<a class=\"bds_renren\"><\/a>");
+document.writeln("<a class=\"bds_t163\"><\/a>");
+document.writeln("<span class=\"bds_more\"><\/span>");
+document.writeln("<a class=\"shareCount\"><\/a>");
+document.writeln("<\/div>");
+document.writeln("<script type=\"text\/javascript\" id=\"bdshare_js\" data=\"type=tools&amp;uid=6812889\" ><\/script>");
+document.writeln("<script type=\"text\/javascript\" id=\"bdshell_js\"><\/script>");
+document.writeln("<script type=\"text\/javascript\">");
+document.writeln("document.getElementById(\"bdshell_js\").src = \"\/\/bdimg.share.baidu.com\/static\/js\/shell_v2.js?cdnversion=\" + Math.ceil(new Date()\/3600000)");
+document.writeln("<\/script><\/div>");
+document.writeln("<\/div>");
+document.writeln("<div class=\"baidu\">");
+document.writeln("<div class=\"con\">");
+document.writeln("<p align=\"left\">");
+document.writeln("<b>需要定制原创文章的朋友请点击&gt;&gt;&gt;&nbsp;&nbsp; 需要快速发表文章的朋友请点击&gt;&gt;&gt;<\/b><\/p>");
+document.writeln("<p align=\"left\">");
+document.writeln("中文期刊网办的非常成功，极具口碑，我们已经取得音像制品许可证、出版物经营许可证和300余期刊征稿授权函。在这里，你可以分享较具时事性的文章和各类杂志的联系方式。如果你需要专属于个人的服务，请点击以上链接获得专业的论文原创检测和论文发表服务。");
+document.writeln("<\/div>");
+document.writeln("<\/div>")
